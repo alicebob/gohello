@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Printf("Hello %s!\n", os.Getenv("USER"))
+	fmt.Printf("Bye %s!\n", os.Getenv("USER"))
 }
